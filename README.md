@@ -41,7 +41,6 @@ The primary goal is to create a robust engine that classifies products into diff
 - Jupyter Notebooks
 - Required libraries (e.g., scikit-learn, TensorFlow, OpenCV)
 
-**Contributions:**
-Contributions and enhancements to the project are welcome. Please adhere to the project structure and maintain code quality.
+  **Data Set:** https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip
 
-Feel free to explore the code, experiment with the methods, and contribute to the advancement of automated product categorization in the e-commerce space!
+**EDAMAN API:** https://rapidapi.com/edamam/api/edamam-food-and-grocery-database
